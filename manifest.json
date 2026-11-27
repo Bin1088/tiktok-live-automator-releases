@@ -1,7 +1,7 @@
 {
   "version": "1.3.16",
-  "build": 59,
-  "url": "https://github.com/Bin1088/tiktok-live-automator-releases/releases/download/v1.3.16-build59/TikTokLiveAutomator-1.3.16-build59.zip",
-  "sha256": "6b3b3c1da10196ffa0a2dd86496abfbc5737e70c3f952ed845f4ef8be698d07a",
-  "notes": "Bật mic tự ghép với mic USB đang cắm (không cố định thiết bị): mic đã chọn nếu còn cắm, nếu không thì mic USB đang có (nhiều mic thì mic cắm gần nhất). Bật/Tắt mic vẫn thủ công như cũ; không bao giờ dùng mic của máy."
+  "build": 60,
+  "url": "https://github.com/Bin1088/tiktok-live-automator-releases/releases/download/v1.3.16-build60/TikTokLiveAutomator-1.3.16-build60.zip",
+  "sha256": "65055409cd87c935fc8744b24602f29d2f420d7ddceec69d30e1ccff81159088",
+  "notes": "Tự đóng popup ngay trong lúc LIVE, kể cả khi popup che đồng hồ LIVE và khi khung xem trước có dòng 'đã tham gia'; bấm đúng OK cùng hàng với Khiếu nại."
 }
