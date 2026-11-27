@@ -1,7 +1,7 @@
 {
   "version": "1.3.16",
-  "build": 61,
-  "url": "https://github.com/Bin1088/tiktok-live-automator-releases/releases/download/v1.3.16-build61/TikTokLiveAutomator-1.3.16-build61.zip",
-  "sha256": "d1224763905359b64204df31ffa937c392459af5afff200fdd58ec9e71e4592c",
-  "notes": "Telegram tự quét lại thư mục video mỗi lần mở menu Phát LIVE / chọn video / phát ngẫu nhiên và gửi danh sách video đang có (mới thêm, đã xóa, trạng thái). Lệnh mới: 📂 Danh sách video (/videos)."
+  "build": 62,
+  "url": "https://github.com/Bin1088/tiktok-live-automator-releases/releases/download/v1.3.16-build62/TikTokLiveAutomator-1.3.16-build62.zip",
+  "sha256": "aa8762c872ff0de0a3b87b1665f42d68a17ea2d3b26e797f68c4b58cdf259981",
+  "notes": "Bấm Phát LIVE trên Telegram: tự quét thư mục rồi vào thẳng bước chọn video trong một tin nhắn (kèm Phát ngẫu nhiên / Mở khóa và phát), không phải bấm lại."
 }
