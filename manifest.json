@@ -1,7 +1,7 @@
 {
   "version": "1.3.16",
-  "build": 55,
-  "url": "https://github.com/Bin1088/tiktok-live-automator-releases/releases/download/v1.3.16-build55/TikTokLiveAutomator-1.3.16-build55.zip",
-  "sha256": "65ab5edcbd32dcd7e8fc0f11d18b9c13093917430fa2b503f14164eafbdc9337",
-  "notes": "Máy khách thấy bản sửa và hồ sơ Studio mới ngay, không chờ lưu đệm GitHub."
+  "build": 56,
+  "url": "https://github.com/Bin1088/tiktok-live-automator-releases/releases/download/v1.3.16-build56/TikTokLiveAutomator-1.3.16-build56.zip",
+  "sha256": "bb6e48d3791e2c3b7d911408646c761a3090a89341ce6e7950a96de688fa1b3a",
+  "notes": "Dừng LIVE không bị kẹt bởi thông báo của TikTok (ví dụ: đình chỉ quà tặng do nội dung sao chép): đóng thông báo ở mọi cửa sổ Studio bằng OK (không bấm Khiếu nại), luôn gửi phím Dừng LIVE."
 }
